@@ -1,8 +1,3 @@
----
-
-
----
-
 <h2 id="简介">简介</h2>
 <p>CocosCreator虚拟摇杆v1.0</p>
 <p>用于<strong>2D 鸟瞰视角</strong>，<strong>无物理引擎</strong>的角色<strong>全方向</strong>移动</p>
