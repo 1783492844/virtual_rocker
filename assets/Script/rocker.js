@@ -12,7 +12,7 @@
  * 注意事项
  * 1.rocker节点的size需要设置，不然点击轮盘会无响应
  * 2.如果使用限制区域，则需要让rocker节点成为限制区域节点的子节点，此操作涉及轮盘呼出的位置问题
- * 3.如果不使用限制区域，则不能使用轮盘呼出的跟随模式，否则会出错
+ * 3.如果不使用限制区域，则不能使用轮盘呼出的跟随模式，否则会报错
  * 
  */
 var showTypeEnum = {
@@ -31,9 +31,11 @@ cc.Class({
     extends: cc.Component,
 
     properties: {
+        // 限制区域节点只能是rocker节点的父节点，且size不能为0
         limitAreaNode: {
             default: null,
-            type: cc.Node
+            type: cc.Node,
+            visible: false
         },
 
         playerNode: {
@@ -95,6 +97,7 @@ cc.Class({
     },
          
     onLoad() {
+        this.limitAreaNode = this.node.getParent();
         this.rocker_bg = this.node.getChildByName('rocker_bg');
         this.stick = this.node.getChildByName('stick');
         this.MAX_R = this.rocker_bg.width / 2;
@@ -165,10 +168,6 @@ cc.Class({
         var node = this.node;
         if (this.showType == showTypeEnum.FOLLOW) {
             node = this.limitAreaNode;
-            if (!node){
-                cc.error('使用轮盘跟随模式，没有设置限制区域');
-                return;
-            }
         }
 
         node.on(cc.Node.EventType.TOUCH_START, this.touchStartEvent, this);

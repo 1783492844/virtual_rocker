@@ -1,71 +1,71 @@
-2019-09-05T01:25:59.602Z - normal: Load ~/.CocosCreator/settings.json
-2019-09-05T01:26:00.737Z - normal: Initializing Asset Database
-2019-09-05T01:26:00.739Z - normal: checking language setting...
-2019-09-05T01:26:00.739Z - normal: Language: zh
-2019-09-05T01:26:01.436Z - success: preview server running at http://localhost:7456
-2019-09-05T01:26:01.438Z - success: protocol editor-framework registered
-2019-09-05T01:26:01.438Z - success: protocol app registered
-2019-09-05T01:26:01.438Z - success: protocol theme registered
-2019-09-05T01:26:01.438Z - success: protocol packages registered
-2019-09-05T01:26:01.438Z - success: protocol uuid registerred
-2019-09-05T01:26:01.438Z - success: protocol db registerred
-2019-09-05T01:26:01.438Z - success: protocol thumbnail registerred
-2019-09-05T01:26:01.439Z - success: protocol unpack registerred
-2019-09-05T01:26:01.439Z - success: protocol disable-commonjs registerred
-2019-09-05T01:26:02.195Z - normal: connected!
-2019-09-05T01:26:02.196Z - normal: Check project D:\CocosCreatePrejects\MyTest
-2019-09-05T01:26:02.197Z - normal: Initializing project D:\CocosCreatePrejects\MyTest
-2019-09-05T01:26:02.560Z - normal: Initializing Cocos2d
-2019-09-05T01:26:03.340Z - normal: Initializing engine extends
-2019-09-05T01:26:03.372Z - success: asset-db-debugger loaded
-2019-09-05T01:26:03.374Z - success: baidu-adapter loaded
-2019-09-05T01:26:03.374Z - success: color-picker loaded
-2019-09-05T01:26:03.467Z - success: fb-audience-network loaded
-2019-09-05T01:26:03.520Z - success: fb-live-stream loaded
-2019-09-05T01:26:03.524Z - success: google-play-instant loaded
-2019-09-05T01:26:03.529Z - success: huawei-runtime loaded
-2019-09-05T01:26:03.770Z - success: cpk-publish loaded
-2019-09-05T01:26:03.771Z - success: jsb-adapter loaded
-2019-09-05T01:26:03.776Z - success: oppo-runtime loaded
-2019-09-05T01:26:03.778Z - success: package-manager loaded
-2019-09-05T01:26:03.893Z - success: qqplay-adapter loaded
-2019-09-05T01:26:03.895Z - success: runtime-dev-tools loaded
-2019-09-05T01:26:03.898Z - success: sdkbox loaded
-2019-09-05T01:26:03.905Z - success: tester loaded
-2019-09-05T01:26:03.907Z - success: ui-grid loaded
-2019-09-05T01:26:03.908Z - success: ui-kit-preview-extra loaded
-2019-09-05T01:26:03.910Z - success: ui-kit-preview loaded
-2019-09-05T01:26:03.912Z - success: ui-kit loaded
-2019-09-05T01:26:03.914Z - success: ui-tree loaded
-2019-09-05T01:26:03.919Z - success: vivo-runtime loaded
-2019-09-05T01:26:03.919Z - success: weapp-adapter loaded
-2019-09-05T01:26:03.920Z - success: xiaomi-adapter loaded
-2019-09-05T01:26:03.959Z - success: assets loaded
-2019-09-05T01:26:03.961Z - success: builder loaded
-2019-09-05T01:26:04.243Z - success: cocos-services loaded
-2019-09-05T01:26:04.246Z - success: console loaded
-2019-09-05T01:26:04.275Z - success: fb-instant-games loaded
-2019-09-05T01:26:04.276Z - success: google-instant-games loaded
-2019-09-05T01:26:04.280Z - success: hierarchy loaded
-2019-09-05T01:26:04.282Z - success: inspector loaded
-2019-09-05T01:26:04.283Z - success: keystore loaded
-2019-09-05T01:26:04.287Z - success: node-library loaded
-2019-09-05T01:26:04.288Z - success: package-asset loaded
-2019-09-05T01:26:04.289Z - success: preferences loaded
-2019-09-05T01:26:04.290Z - success: project-exporter loaded
-2019-09-05T01:26:04.292Z - success: project-importer loaded
-2019-09-05T01:26:04.293Z - success: project-settings loaded
-2019-09-05T01:26:04.296Z - success: scene loaded
-2019-09-05T01:26:04.297Z - success: simulator-debugger loaded
-2019-09-05T01:26:04.298Z - success: sprite-editor loaded
-2019-09-05T01:26:04.300Z - success: store loaded
-2019-09-05T01:26:04.303Z - success: timeline loaded
-2019-09-05T01:26:04.308Z - success: xiaomi-runtime loaded
-2019-09-05T01:26:04.904Z - normal: Loading packages
-2019-09-05T01:26:04.909Z - normal: Watching packages
-2019-09-05T01:26:05.259Z - normal: Run Application
-2019-09-05T01:26:05.691Z - info: Cocos Services load base data!
-2019-09-05T01:26:25.049Z - error: Reference "limitAreaNode" of "rocker<rocker>" to external scene object "limitArea" can not be saved in prefab asset.
+2019-09-05T02:28:01.949Z - normal: Load ~/.CocosCreator/settings.json
+2019-09-05T02:28:03.067Z - normal: Initializing Asset Database
+2019-09-05T02:28:03.069Z - normal: checking language setting...
+2019-09-05T02:28:03.069Z - normal: Language: zh
+2019-09-05T02:28:03.589Z - success: preview server running at http://localhost:7456
+2019-09-05T02:28:03.591Z - success: protocol editor-framework registered
+2019-09-05T02:28:03.591Z - success: protocol app registered
+2019-09-05T02:28:03.591Z - success: protocol theme registered
+2019-09-05T02:28:03.591Z - success: protocol packages registered
+2019-09-05T02:28:03.592Z - success: protocol uuid registerred
+2019-09-05T02:28:03.592Z - success: protocol db registerred
+2019-09-05T02:28:03.592Z - success: protocol thumbnail registerred
+2019-09-05T02:28:03.592Z - success: protocol unpack registerred
+2019-09-05T02:28:03.592Z - success: protocol disable-commonjs registerred
+2019-09-05T02:28:03.737Z - normal: connected!
+2019-09-05T02:28:03.741Z - normal: Check project D:\CocosCreatePrejects\MyTest
+2019-09-05T02:28:03.747Z - normal: Initializing project D:\CocosCreatePrejects\MyTest
+2019-09-05T02:28:04.054Z - normal: Initializing Cocos2d
+2019-09-05T02:28:04.674Z - normal: Initializing engine extends
+2019-09-05T02:28:04.688Z - success: asset-db-debugger loaded
+2019-09-05T02:28:04.689Z - success: baidu-adapter loaded
+2019-09-05T02:28:04.690Z - success: color-picker loaded
+2019-09-05T02:28:04.756Z - success: fb-audience-network loaded
+2019-09-05T02:28:04.795Z - success: fb-live-stream loaded
+2019-09-05T02:28:04.798Z - success: google-play-instant loaded
+2019-09-05T02:28:04.801Z - success: huawei-runtime loaded
+2019-09-05T02:28:04.993Z - success: cpk-publish loaded
+2019-09-05T02:28:04.994Z - success: jsb-adapter loaded
+2019-09-05T02:28:04.997Z - success: oppo-runtime loaded
+2019-09-05T02:28:05.000Z - success: package-manager loaded
+2019-09-05T02:28:05.089Z - success: qqplay-adapter loaded
+2019-09-05T02:28:05.090Z - success: runtime-dev-tools loaded
+2019-09-05T02:28:05.094Z - success: sdkbox loaded
+2019-09-05T02:28:05.095Z - success: tester loaded
+2019-09-05T02:28:05.097Z - success: ui-grid loaded
+2019-09-05T02:28:05.098Z - success: ui-kit-preview-extra loaded
+2019-09-05T02:28:05.099Z - success: ui-kit-preview loaded
+2019-09-05T02:28:05.101Z - success: ui-kit loaded
+2019-09-05T02:28:05.102Z - success: ui-tree loaded
+2019-09-05T02:28:05.107Z - success: vivo-runtime loaded
+2019-09-05T02:28:05.108Z - success: weapp-adapter loaded
+2019-09-05T02:28:05.108Z - success: xiaomi-adapter loaded
+2019-09-05T02:28:05.147Z - success: assets loaded
+2019-09-05T02:28:05.148Z - success: builder loaded
+2019-09-05T02:28:05.349Z - success: cocos-services loaded
+2019-09-05T02:28:05.353Z - success: console loaded
+2019-09-05T02:28:05.380Z - success: fb-instant-games loaded
+2019-09-05T02:28:05.381Z - success: google-instant-games loaded
+2019-09-05T02:28:05.385Z - success: hierarchy loaded
+2019-09-05T02:28:05.387Z - success: inspector loaded
+2019-09-05T02:28:05.388Z - success: keystore loaded
+2019-09-05T02:28:05.390Z - success: node-library loaded
+2019-09-05T02:28:05.391Z - success: package-asset loaded
+2019-09-05T02:28:05.392Z - success: preferences loaded
+2019-09-05T02:28:05.393Z - success: project-exporter loaded
+2019-09-05T02:28:05.394Z - success: project-importer loaded
+2019-09-05T02:28:05.395Z - success: project-settings loaded
+2019-09-05T02:28:05.398Z - success: scene loaded
+2019-09-05T02:28:05.398Z - success: simulator-debugger loaded
+2019-09-05T02:28:05.399Z - success: sprite-editor loaded
+2019-09-05T02:28:05.401Z - success: store loaded
+2019-09-05T02:28:05.402Z - success: timeline loaded
+2019-09-05T02:28:05.406Z - success: xiaomi-runtime loaded
+2019-09-05T02:28:05.986Z - normal: Loading packages
+2019-09-05T02:28:05.994Z - normal: Watching packages
+2019-09-05T02:28:06.336Z - normal: Run Application
+2019-09-05T02:28:06.709Z - info: Cocos Services load base data!
+2019-09-05T02:35:59.641Z - error: Reference "limitAreaNode" of "rocker<rocker>" to external scene object "limitArea" can not be saved in prefab asset.
     at D:\CocosCreator\resources\app.asar\editor\page\scene-utils\utils\prefab.js:1:3768
     at r (D:\CocosCreator\resources\app.asar\editor\page\scene-utils\utils\prefab.js:1:3483)
     at i (D:\CocosCreator\resources\app.asar\editor\page\scene-utils\utils\prefab.js:1:3532)
@@ -75,7 +75,7 @@
     at Object.c.createPrefabFrom (D:\CocosCreator\resources\app.asar\editor\page\scene-utils\utils\prefab.js:1:4069)
     at Object.createPrefab (D:\CocosCreator\resources\app.asar\editor\page\scene-utils\index.js:1:5363)
     at HTMLElement.create-prefab (D:\CocosCreator\resources\app.asar\editor\builtin\scene\panel\messages\scene-operation.js:1:2681)
-2019-09-05T01:26:25.049Z - error: Reference "playerNode" of "rocker<rocker>" to external scene object "player" can not be saved in prefab asset.
+2019-09-05T02:35:59.642Z - error: Reference "playerNode" of "rocker<rocker>" to external scene object "player" can not be saved in prefab asset.
     at D:\CocosCreator\resources\app.asar\editor\page\scene-utils\utils\prefab.js:1:3768
     at r (D:\CocosCreator\resources\app.asar\editor\page\scene-utils\utils\prefab.js:1:3483)
     at i (D:\CocosCreator\resources\app.asar\editor\page\scene-utils\utils\prefab.js:1:3532)
@@ -85,15 +85,4 @@
     at Object.c.createPrefabFrom (D:\CocosCreator\resources\app.asar\editor\page\scene-utils\utils\prefab.js:1:4069)
     at Object.createPrefab (D:\CocosCreator\resources\app.asar\editor\page\scene-utils\index.js:1:5363)
     at HTMLElement.create-prefab (D:\CocosCreator\resources\app.asar\editor\builtin\scene\panel\messages\scene-operation.js:1:2681)
-2019-09-05T01:27:20.928Z - normal: 导出 D:\CocosCreatePrejects\MyTest\virtual_rocker.zip 成功.
-2019-09-05T01:33:53.031Z - error: Reference "playerNode" of "rocker<rocker>" to external scene object "player" can not be saved in prefab asset.
-    at D:\CocosCreator\resources\app.asar\editor\page\scene-utils\utils\prefab.js:1:3768
-    at r (D:\CocosCreator\resources\app.asar\editor\page\scene-utils\utils\prefab.js:1:3483)
-    at i (D:\CocosCreator\resources\app.asar\editor\page\scene-utils\utils\prefab.js:1:3532)
-    at D:\CocosCreator\resources\app.asar\editor\page\scene-utils\utils\prefab.js:1:3553
-    at f (D:\CocosCreator\resources\app.asar\editor\page\scene-utils\utils\prefab.js:1:781)
-    at f (D:\CocosCreator\resources\app.asar\editor\page\scene-utils\utils\prefab.js:1:830)
-    at Object.c.getDumpableNode (D:\CocosCreator\resources\app.asar\editor\page\scene-utils\utils\prefab.js:1:3216)
-    at Object.c.createPrefabFrom (D:\CocosCreator\resources\app.asar\editor\page\scene-utils\utils\prefab.js:1:4069)
-    at Object.createPrefab (D:\CocosCreator\resources\app.asar\editor\page\scene-utils\index.js:1:5363)
-2019-09-05T01:34:22.288Z - normal: 导出 D:\CocosCreatePrejects\MyTest\virtual_rocker.zip 成功.
+2019-09-05T02:36:34.952Z - normal: 导出 D:\CocosCreatePrejects\MyTest\virtual_rocker.zip 成功.

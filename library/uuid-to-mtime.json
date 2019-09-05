@@ -59,16 +59,6 @@
     "meta": 1567586362127,
     "relativePath": "Textures\\rocker.png"
   },
-  "1646bf43-414a-467c-b686-dd3184914e59": {
-    "asset": 1567586702096,
-    "meta": 1567586704157,
-    "relativePath": "Script\\rocker.js"
-  },
-  "bad07fba-4878-4ee1-ab77-78bd531fc27d": {
-    "asset": 1567647233034,
-    "meta": 1567647233039,
-    "relativePath": "limitArea.prefab"
-  },
   "71561142-4c83-4933-afca-cb7a17f67053": {
     "asset": 1562606746000,
     "meta": 1567649797945,
@@ -288,5 +278,15 @@
     "asset": 1562606746000,
     "meta": 1567649798063,
     "relativePath": "prefab\\webview.prefab"
+  },
+  "1646bf43-414a-467c-b686-dd3184914e59": {
+    "asset": 1567650701431,
+    "meta": 1567650711625,
+    "relativePath": "Script\\rocker.js"
+  },
+  "ae095324-d9d0-44f8-951b-fb1e4263167c": {
+    "asset": 1567650959644,
+    "meta": 1567650959646,
+    "relativePath": "rocker.prefab"
   }
 }
