@@ -18,17 +18,18 @@
 [2] 运行越界（即从另一侧出来）PERMIT</li>
 </ol>
 <h2 id="注意事项">注意事项</h2>
-<ul>
+<ol>
 <li><strong>rocker节点的size需要设置</strong>，不能为0，不然无法触发触摸事件</li>
 <li>如果<strong>使用限制区域</strong>，则<strong>必须</strong>要让rocker节点成为限制区域节点的子节点，此操作涉及轮盘呼出的位置问题（坐标系错误，导致轮盘位置不对）</li>
 <li>如果<strong>不使用限制区域</strong>，则不能使用轮盘呼出的跟随模式，否则会报错</li>
-</ul>
+</ol>
 <h2 id="使用方法">使用方法</h2>
-<p>rocker节点结构如下图所示，<strong>所框部分命名不要更改</strong><br>
-<img src="https://lh3.googleusercontent.com/4D7cbroa-XSRMDjiDD3yuUuRXNdMwVQF33jSw7XZoF7617Mp481rrAnQa-HuxwJxIr4fLDcvdyiR" alt="enter image description here" title="节点结构"><br>
-将rocker.js文件拖到rocker节点上<br>
-rocker节点属性设置，<strong>Size不能为0</strong><br>
-<img src="https://lh3.googleusercontent.com/Sy60GXiKaBAFt3E9fsXDruc69FFX0YQS5m7Jkk5F3hrkP9RZJdgG4kUiSHZ4oMNpLI9lQSLl97zb" alt="enter image description here" title="rocker属性"></p>
+<ol>
+<li>rocker节点结构如下图所示，<strong>所框部分命名不要更改</strong><br>
+<img src="https://lh3.googleusercontent.com/4D7cbroa-XSRMDjiDD3yuUuRXNdMwVQF33jSw7XZoF7617Mp481rrAnQa-HuxwJxIr4fLDcvdyiR" alt="enter image description here" title="节点结构"></li>
+<li>将rocker.js文件拖到rocker节点上<br>
+<img src="https://lh3.googleusercontent.com/Sy60GXiKaBAFt3E9fsXDruc69FFX0YQS5m7Jkk5F3hrkP9RZJdgG4kUiSHZ4oMNpLI9lQSLl97zb" alt="enter image description here" title="rocker属性"></li>
+</ol>
 <blockquote>
 <p><strong>Node组件</strong></p>
 </blockquote>
