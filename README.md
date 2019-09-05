@@ -1,4 +1,7 @@
+---
 
+
+---
 
 <h2 id="简介">简介</h2>
 <p>这是一个简单的CocosCreator虚拟摇杆demo</p>
@@ -22,7 +25,7 @@
 </ol>
 <h2 id="使用方法">使用方法</h2>
 <ol>
-<li>下载virtual_rocker根目录下的virtual_rocker.zip压缩包，然后导入到自己的工程文件，具体操作<a href="https://docs.cocos.com/creator/manual/zh/asset-workflow/import-export.html"># 资源导入导出工作流程</a></li>
+<li>下载virtual_rocker根目录下的<strong>virtual_rocker.zip</strong>压缩包，然后导入到自己的工程文件，具体操作<a href="https://docs.cocos.com/creator/manual/zh/asset-workflow/import-export.html"># 资源导入导出工作流程</a></li>
 <li>将rocker预制体拖拽到想要的位置</li>
 <li>设置好limitArea节点的大小</li>
 <li>设置rocker节点的大小，rocker组件<br>
