@@ -4,8 +4,8 @@
 ---
 
 <h2 id="简介">简介</h2>
-<p>这是一个简单的CocosCreator虚拟摇杆demo</p>
-<p>用于<strong>2D俯视视角</strong>，<strong>无物理引擎</strong>的角色<strong>全方向</strong>移动</p>
+<p>CocosCreator虚拟摇杆v1.0</p>
+<p>用于<strong>2D 鸟瞰视角</strong>，<strong>无物理引擎</strong>的角色<strong>全方向</strong>移动</p>
 <p>已将虚拟摇杆的预制体导出成压缩包，下载导入自己的工程即可使用，如遇到脚本和资源冲突，cc会自动解决。具体使用方法在下面。</p>
 <h2 id="种模式">3种模式</h2>
 <ol>
@@ -50,4 +50,9 @@
 <p><strong>Widget组件</strong></p>
 </blockquote>
 <p>此组件用于虚拟摇杆默认固定位置的确定（<em><strong>必须</strong></em>）</p>
+<h2 id="所有版本">所有版本</h2>
+<ul>
+<li><a href="https://github.com/1783492844/virtual_rocker">v1.0</a>：2D、鸟瞰、全向、实现player的移动</li>
+<li><a href="https://github.com/1783492844/virtual_rocker_2">v2.0</a>：2D、45°、4向、只发消息，不实现移动</li>
+</ul>
 
