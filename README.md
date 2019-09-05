@@ -5,6 +5,7 @@
 
 <h2 id="简介">简介</h2>
 <p>这是一个简单的CocosCreator虚拟摇杆demo</p>
+<p>用于<strong>2D俯视视角</strong>，<strong>无物理引擎</strong>的角色<strong>全方向</strong>移动</p>
 <p>已将虚拟摇杆的预制体导出成压缩包，下载导入自己的工程即可使用，如遇到脚本和资源冲突，cc会自动解决。具体使用方法在下面。</p>
 <h2 id="种模式">3种模式</h2>
 <ol>
@@ -20,15 +21,15 @@
 </ol>
 <h2 id="注意事项">注意事项</h2>
 <ol>
+<li>此预制资源是有rocker.js脚本直接控制人物移动，无需在人物节点再添加人物移动的脚本</li>
 <li><strong>rocker节点的size需要设置</strong>，不能为0，不然无法触发触摸事件</li>
-<li>如果<strong>使用限制区域</strong>，则<strong>必须</strong>要让rocker节点成为限制区域节点的子节点，此操作涉及轮盘呼出的位置问题（坐标系错误，导致轮盘位置不对）</li>
-<li>如果<strong>不使用限制区域</strong>，则不能使用轮盘呼出的跟随模式，否则会报错</li>
+<li>如果<strong>使用限制区域</strong>，则限制区域节点<strong>必须</strong>是rocker节点的<strong>父节点</strong>，且<strong>Size不能为0</strong>，此操作涉及轮盘呼出的位置问题（坐标系错误，导致轮盘位置不对）</li>
 </ol>
 <h2 id="使用方法">使用方法</h2>
 <ol>
 <li>下载virtual_rocker根目录下的<a href="https://github.com/1783492844/virtual_rocker/raw/master/virtual_rocker.zip">virtual_rocker.zip</a>压缩包，然后导入到自己的工程文件，具体操作<a href="https://docs.cocos.com/creator/manual/zh/asset-workflow/import-export.html"># 资源导入导出工作流程</a></li>
 <li>将rocker预制体拖拽到想要的位置</li>
-<li>设置好limitArea节点的大小</li>
+<li>如果要使用限制区域，则设置好限制区域节点的大小</li>
 <li>设置rocker节点的大小，rocker组件<br>
 <img src="https://lh3.googleusercontent.com/Sy60GXiKaBAFt3E9fsXDruc69FFX0YQS5m7Jkk5F3hrkP9RZJdgG4kUiSHZ4oMNpLI9lQSLl97zb" alt="enter image description here" title="rocker属性"></li>
 </ol>
