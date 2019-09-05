@@ -5,6 +5,7 @@
 
 <h2 id="简介">简介</h2>
 <p>这是一个简单的CocosCreator虚拟摇杆demo</p>
+<p>已将虚拟摇杆的预制体导出成压缩包，下载导入自己的工程即可使用，如遇到脚本和资源冲突，cc会自动解决。具体使用方法在下面。</p>
 <h2 id="种模式">3种模式</h2>
 <ol>
 <li>轮盘呼出模式 showMode<br>
@@ -25,11 +26,13 @@
 </ol>
 <h2 id="使用方法">使用方法</h2>
 <ol>
-<li>rocker节点结构如下图所示，<strong>所框部分命名不要更改</strong><br>
-<img src="https://lh3.googleusercontent.com/4D7cbroa-XSRMDjiDD3yuUuRXNdMwVQF33jSw7XZoF7617Mp481rrAnQa-HuxwJxIr4fLDcvdyiR" alt="enter image description here" title="节点结构"></li>
-<li>将rocker.js文件拖到rocker节点上<br>
+<li>下载virtual_rocker根目录下的<a href="https://github.com/1783492844/virtual_rocker/raw/master/virtual_rocker.zip">virtual_rocker.zip</a>压缩包，然后导入到自己的工程文件，具体操作<a href="https://docs.cocos.com/creator/manual/zh/asset-workflow/import-export.html"># 资源导入导出工作流程</a></li>
+<li>将rocker预制体拖拽到想要的位置</li>
+<li>设置好limitArea节点的大小</li>
+<li>设置rocker节点的大小，rocker组件<br>
 <img src="https://lh3.googleusercontent.com/Sy60GXiKaBAFt3E9fsXDruc69FFX0YQS5m7Jkk5F3hrkP9RZJdgG4kUiSHZ4oMNpLI9lQSLl97zb" alt="enter image description here" title="rocker属性"></li>
 </ol>
+<h2 id="rocker节点属性说明">rocker节点属性说明</h2>
 <blockquote>
 <p><strong>Node组件</strong></p>
 </blockquote>
