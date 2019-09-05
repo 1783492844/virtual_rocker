@@ -25,11 +25,13 @@
 </ol>
 <h2 id="使用方法">使用方法</h2>
 <ol>
-<li>rocker节点结构如下图所示，<strong>所框部分命名不要更改</strong><br>
-<img src="https://lh3.googleusercontent.com/4D7cbroa-XSRMDjiDD3yuUuRXNdMwVQF33jSw7XZoF7617Mp481rrAnQa-HuxwJxIr4fLDcvdyiR" alt="enter image description here" title="节点结构"></li>
-<li>将rocker.js文件拖到rocker节点上<br>
+<li>下载virtual_rocker根目录下的virtual_rocker.zip压缩包，然后导入到自己的工程文件，具体操作<a href="https://docs.cocos.com/creator/manual/zh/asset-workflow/import-export.html"># 资源导入导出工作流程</a></li>
+<li>将rocker预制体拖拽到想要的位置</li>
+<li>设置好limitArea节点的大小</li>
+<li>设置rocker节点的大小，rocker组件<br>
 <img src="https://lh3.googleusercontent.com/Sy60GXiKaBAFt3E9fsXDruc69FFX0YQS5m7Jkk5F3hrkP9RZJdgG4kUiSHZ4oMNpLI9lQSLl97zb" alt="enter image description here" title="rocker属性"></li>
 </ol>
+<h2 id="rocker节点属性说明">rocker节点属性说明</h2>
 <blockquote>
 <p><strong>Node组件</strong></p>
 </blockquote>
